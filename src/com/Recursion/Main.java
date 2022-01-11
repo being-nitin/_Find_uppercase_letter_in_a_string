@@ -17,3 +17,4 @@ public class Main {
     }
 }
 // isuppercase will check that the string contains uppercase character or not:
+// islowercase will check that the string contains lowercase character or not:
