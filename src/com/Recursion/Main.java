@@ -16,3 +16,4 @@ public class Main {
         return 'c';
     }
 }
+// isuppercase will check that the string contains uppercase character or not:
